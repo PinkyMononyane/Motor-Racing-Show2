@@ -1,0 +1,16 @@
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\bin\Debug\Motor Racing Show.exe.config
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\bin\Debug\Motor Racing Show.exe
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\bin\Debug\Motor Racing Show.pdb
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\bin\Debug\Motor Racing Show.xml
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor Racing Show.vbprojResolveAssemblyReference.cache
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor_Racing_Show.Resources.resources
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor Racing Show.vbproj.GenerateResource.Cache
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor Racing Show.vbproj.CoreCompileInputs.cache
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor Racing Show.exe
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor Racing Show.xml
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor Racing Show.pdb
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor_Racing_Show.Management_Of_Racing_Drivers.resources
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor_Racing_Show.Managing_Motor_Racing.resources
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor_Racing_Show.Search_Form.resources
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor_Racing_Show.Motor_Racing_Club_System.resources
+C:\Users\pmononyane\source\repos\Motor Racing Show\Motor Racing Show\obj\Debug\Motor_Racing_Show.Edit_Profile.resources

@@ -1,0 +1,1 @@
+StarsSystem.Windows.Forms.DateTimePicker, Value: 9/11/2017 10:19:40 AM250PTA20
